@@ -1,0 +1,5 @@
+/home/bogdanoff/study/OOP/OOP_lab5/build/CMakeFiles/main.dir
+/home/bogdanoff/study/OOP/OOP_lab5/build/CMakeFiles/run_tests.dir
+/home/bogdanoff/study/OOP/OOP_lab5/build/CMakeFiles/test.dir
+/home/bogdanoff/study/OOP/OOP_lab5/build/CMakeFiles/edit_cache.dir
+/home/bogdanoff/study/OOP/OOP_lab5/build/CMakeFiles/rebuild_cache.dir
